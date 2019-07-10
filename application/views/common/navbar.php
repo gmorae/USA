@@ -9,18 +9,15 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <!-- Links -->
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-        <!-- Left -->
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
+          <li class="nav-item">
             <a class="nav-link" href="<?= base_url() ?>">Login
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?= base_url('index.php/auth/create_user') ?>">Cadastre-se</a>
+            <a class="nav-link" href="<?= base_url('auth/create_user') ?>">Cadastre-se</a>
           </li>
         </ul>
       </div>
