@@ -34,6 +34,19 @@ class Welcome extends CI_Controller {
 	}
 	public function index()
 	{
+		$this->load->view('usuario/card');
+	}
+	public function ccb()
+	{
 		
 	}
+	public function pessoal()
+	{
+		
+	}
+	public function saude()
+	{
+		
+	}
+
 }
