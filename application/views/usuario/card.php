@@ -2,7 +2,7 @@
     <div class="card-deck">
         <div class="card mb-4">
             <div class="view overlay zoom">
-                <img class="card-img-top " src="<?= base_url('imagens/user.png') ?>" alt="Card image cap">
+                <img class="card-img-top w-100" src="<?= base_url('imagens/user.png') ?>" alt="Card image cap">
                 <a href="#!">
                     <div class="mask rgba-white-slight"></div>
                 </a>
@@ -20,7 +20,7 @@
 
         <div class="card mb-4">
             <div class="view overlay zoom">
-                <img class="card-img-top " src="<?= base_url('imagens/ccb.jpg') ?>" alt="Card image cap">
+                <img class="card-img-top w-100 " src="<?= base_url('imagens/ccb.jpg') ?>" alt="Card image cap">
                 <a href="#!">
                     <div class="mask rgba-white-slight"></div>
                 </a>
@@ -38,7 +38,7 @@
 
         <div class="card mb-4">
             <div class="view overlay zoom">
-                <img class="card-img-top " src="<?= base_url('imagens/saude.png') ?>" alt="Card image cap">
+                <img class="card-img-top w-100" src="<?= base_url('imagens/saude.png') ?>" alt="Card image cap">
                 <a href="#!">
                     <div class="mask rgba-white-slight"></div>
                 </a>
