@@ -64,7 +64,7 @@
         </div>
         <div class="card mt-3">
             <div class="card-header">
-                <h3 class="text-center">Documento de registro</h3>
+                <h3 class="text-center">Endereço</h3>
             </div>
             <div class="row col-md-12 mx-auto ">
                 <div class="md-form col-md-4 ml-md-5">
